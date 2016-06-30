@@ -29,7 +29,7 @@ theme.bg_systray = theme.bg_normal
 theme.useless_gap   = 0
 theme.border_width  = 2
 theme.border_normal = "#3F3F3F"
-theme.border_focus  = "#6F6F6F"
+theme.border_focus  = "#FF0000"
 theme.border_marked = "#CC9393"
 -- }}}
 
@@ -127,6 +127,8 @@ theme.titlebar_maximized_button_normal_active = "@AWESOME_THEMES_PATH@/zenburn-s
 theme.titlebar_maximized_button_focus_inactive  = "@AWESOME_THEMES_PATH@/zenburn-sonar/titlebar/maximized_focus_inactive.png"
 theme.titlebar_maximized_button_normal_inactive = "@AWESOME_THEMES_PATH@/zenburn-sonar/titlebar/maximized_normal_inactive.png"
 -- }}}
+
+theme.icon_theme = "Adwaita"
 -- }}}
 
 return theme
