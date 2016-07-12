@@ -23,6 +23,7 @@ theme.bg_normal  = "#3F3F3F"
 theme.bg_focus   = "#1E2320"
 theme.bg_urgent  = "#8A4E01"
 theme.bg_systray = theme.bg_normal
+theme.bg_minimize = "#E5DDB7"
 -- }}}
 
 -- {{{ Borders
