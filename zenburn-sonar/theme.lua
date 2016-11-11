@@ -129,7 +129,7 @@ theme.titlebar_maximized_button_focus_inactive  = "@AWESOME_THEMES_PATH@/zenburn
 theme.titlebar_maximized_button_normal_inactive = "@AWESOME_THEMES_PATH@/zenburn-sonar/titlebar/maximized_normal_inactive.png"
 -- }}}
 
-theme.icon_theme = "Adwaita"
+theme.icon_theme = "mate"
 -- }}}
 
 return theme
